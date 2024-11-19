@@ -7,6 +7,7 @@ function App() {
     <>
     <p>Your gpt key is {KeyGPT}</p>
     <p>Your claude key is {KeyClaude}</p>
+    <p>Hi there!</p>
     </>
   )
 }
